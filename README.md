@@ -1,4 +1,7 @@
-# Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud.
+### NAME : SOWMYA V
+### REG NO : 212222110045
+
+# EXPERIMENT 5 - Soil moisture sensor interfacing with IoT controller and uploading the data in the cloud.
 
 # AIM:
 To upload the Soil-moisture sensor value in the Things mate using Arduino controller.
